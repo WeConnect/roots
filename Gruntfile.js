@@ -21,7 +21,7 @@ module.exports = function(grunt) {
         },
         files: {
           'assets/css/main.min.css': [
-            'assets/css/less/bootstrap/bootstrap.less',
+            // 'assets/css/less/bootstrap/bootstrap.less',
             'assets/css/less/bootstrap/responsive.less',
             'assets/css/less/app.less'
           ]
